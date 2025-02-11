@@ -1,5 +1,6 @@
 x=int(input("enter 1st no ="))
 y=int(input("enter 2nd no ="))
-sum=x+y;
-print(sum)
-
+add=x+y;
+sub=x-y;
+print("addition of two number: ",add ) 
+print("substraction of two number: ", sub ) 
